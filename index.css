@@ -14,13 +14,15 @@ li{
     padding-left: 0px;
     padding-bottom: 10px;
     
+    
 }
 a{
     color:blue;
 }
 /* if you want to change colour of a tag inside li tag then write li a {} */
 li a{
-    color: #04AA6D;
+    color: blue;
+
 }
 input{
     box-sizing: border-box;
