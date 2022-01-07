@@ -10,3 +10,7 @@ Double click to clear leads details.
 5. Click on `Load Unpacked`
 6. Goto location where you have downloaded this repo and click on `select folder`.
 Your extension is ready to use
+
+# DEMO
+
+![image](https://user-images.githubusercontent.com/71868375/148556872-a5a1b923-4963-42f0-ae5e-6c54c8b2dc6d.png)
